@@ -1,0 +1,59 @@
+.course-card .title {
+  color: #e8e8cc;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  font-size: 1.4rem;
+  line-height: 1.1;
+}
+.course-card .card {
+  height: 30em;
+}
+.course-card .card-img {
+  height: 50%;
+}
+.course-card .card-body {
+  height: 50%;
+}
+.course-card .instructor-name,
+.enrolled {
+  color: #e8e8cc;
+  font-weight: 700;
+}
+.taka {
+  color: #f0bb62;
+}
+.button {
+  width: 120px;
+  display: block;
+  margin-left: auto;
+  margin-bottom: 5px;
+  border-color: transparent;
+  margin-right: 5px;
+  background-color: transparent;
+  color: #f1b500;
+}
+.btn-primary:hover {
+  color: #ffcc1d;
+  background-color: transparent;
+
+  border: 1px solid #e8e8cc;
+}
+.course-card div.col-sm-4:nth-child(2) > div:nth-child(1) {
+  margin-bottom: 10px;
+}
+.course-card div.col-md-4:nth-child(2) > div:nth-child(1) > div:nth-child(1) {
+  background-color: #212529;
+}
+.course-card .card {
+  box-shadow: 5px 5px 20px black;
+}
+.course-card a {
+  color: #f0bb62;
+}
+.course-card .nav-tutor span {
+  text-decoration: underline !important;
+  text-transform: uppercase;
+}
+.course-card .nav-tutor span :hover {
+  text-decoration: none !important;
+}

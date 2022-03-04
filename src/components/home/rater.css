@@ -1,0 +1,20 @@
+.rater .one:hover {
+  color: red;
+  z-index: 102;
+}
+.rater .two:hover {
+  color: red;
+  z-index: 103;
+}
+.rater .three:hover {
+  color: red;
+  z-index: 104;
+}
+.rater .four:hover {
+  color: blue;
+  z-index: 106;
+}
+.rater .five:hover {
+  color: red;
+  z-index: 110;
+}

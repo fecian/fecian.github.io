@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Redressed&family=Sirin+Stencil&display=swap");
+.headline {
+  font-size: clamp(11px, 3.4vw, 22px);
+  letter-spacing: 0.297em;
+  font-weight: 400;
+  line-height: 2;
+  color: #ed5edd;
+}
+.headline > span:nth-child(1) {
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  font-size: 1.4em;
+  color: #116530;
+  font-family: "Redressed", cursive;
+}

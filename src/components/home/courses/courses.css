@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+.courses {
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0px;
+}
+.courses .card {
+  width: 225px;
+  margin: 5px;
+  padding: 5px;
+  z-index: 3;
+  overflow: hidden;
+}
+.courses .shadower {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.courses :hover .shadower {
+  box-shadow: 0pc 0pc 10pc grey;
+  transform: scale(1.016);
+  transition: 400ms;
+}
+.courses .card ::after {
+  content: hello;
+  width: 499px;
+  border: 1px solid coral;
+}
+.courses .card img {
+  height: 50%;
+  object-fit: fill;
+}
+.courses .card .shadower .card-body {
+  height: 50%;
+}

@@ -1,0 +1,36 @@
+.tutor-overview .img-row {
+  max-width: 80%;
+  max-height: 300px;
+  /* border: 1px solid coral; */
+  margin: 0 auto;
+}
+
+.tutor-overview .image {
+  max-width: inherit;
+  max-height: inherit;
+  object-fit: fill;
+  border-radius: 20px;
+  padding: 0px;
+  box-shadow: 0px 0px 10px black;
+  margin-bottom: 20px;
+}
+.tutor-overview .row {
+  justify-content: center;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.tutor-overview .from span,
+.skill span {
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 1.25em;
+  letter-spacing: 0.216em;
+}
+.tutor-overview .name,
+.from,
+.skill,
+.hometown {
+  font-size: 1.25em;
+  text-transform: capitalize;
+}

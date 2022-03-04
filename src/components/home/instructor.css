@@ -1,0 +1,76 @@
+.instructor {
+  display: flex;
+  justify-content: center;
+}
+.instructor .details {
+  display: none;
+  word-wrap: break-word;
+  padding: 47px 23px;
+  opacity: 0.75;
+  color: #ffcc1d;
+}
+.instructor .card-img {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
+.instructor .card-img :hover {
+  border-radius: 50%;
+  width: 400px;
+  height: 23px;
+}
+.instructor .card {
+  background-color: transparent;
+  margin: 1.5em;
+  border: none;
+}
+.instructor .card-body {
+  padding: 0.5rem 1rem 1.5rem 1rem;
+  position: absolute;
+  bottom: 0%;
+  width: 100%;
+  left: 0px;
+  text-align: center;
+  color: #ffcc1d;
+  background-color: #116530;
+  text-transform: uppercase;
+}
+.instructor .card-body h4 {
+  font-weight: 600;
+}
+.instructor .card-img-overlay {
+  opacity: 75%;
+  overflow: hidden;
+  border-radius: 50%;
+  padding: 0px;
+}
+.instructor .card .button {
+  display: none;
+  position: absolute;
+  bottom: 10%;
+  left: 25%;
+  width: 50%;
+  /* margin-left: -25%; */
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+.instructor .card :hover button {
+  display: inline-block;
+}
+.instructor .card .btn-primary:hover {
+  text-decoration: none !important;
+}
+.instructor .card :hover .name {
+  display: none;
+}
+
+.instructor .card :hover .details {
+  background-color: black;
+  border-radius: 50%;
+  text-align: center;
+  display: inline-block;
+  overflow: hidden;
+  opacity: 0.95;
+  width: 100%;
+  height: 100%;
+}

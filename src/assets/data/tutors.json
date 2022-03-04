@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "6219ba91ba1b70cc78e3805c"
+    },
+    "name": "Sohanur Rahman Emon",
+    "nickname": "emon",
+    "src": "https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/68936526_2487887751486617_5417402856451866624_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_ohc=FjSSvoqZ38kAX_Vj3dR&tn=OBW8qPR3zRZYCZA6&_nc_ht=scontent.fdac31-1.fna&oh=00_AT9PWx3TLOhjAejRWl7jxLmdbCsTAEY1TKRF9ZVgoqxZTg&oe=6240AD20",
+    "skilledIn": "ict",
+    "from": "fec",
+    "hometown": "Jhenaidah",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod et nisi dolorem sapiente molestiae blanditiis libero accusamus possimus, natus pariatur architecto explicabo, iste animi dicta! Et perspiciatis libero sunt fuga, recusandae, necessitatibus incidunt nostrum voluptatem magnam voluptatum exercitationem odit quam rerum ratione modi excepturi placeat consequatur? Necessitatibus odio consequuntur itaque?"
+  },
+  {
+    "_id": {
+      "$oid": "6219bb05ba1b70cc78e3805d"
+    },
+    "name": "Abu Siam",
+    "nickname": "siam",
+    "src": "https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-1/78885365_104941124330872_4777854398984355840_n.jpg?stp=c33.0.200.200a_dst-jpg_p200x200&_nc_cat=107&ccb=1-5&_nc_sid=7206a8&_nc_ohc=4ylYFGw3LisAX-lU7NV&_nc_oc=AQkdfMmmrjRU91nNifCSzXp-QV4DyXSIxa1al1-wZhmmcCSPeEMZoHedeR4qd0rdsbE&_nc_ht=scontent.fdac31-1.fna&oh=00_AT_mXUp0ZOgPiJABjwYBipOuhb-TDZJ4IQzvFXa5mRuM1A&oe=623FE4BE",
+    "skilledIn": "c++",
+    "from": "fec",
+    "hometown": "Jamalpur",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod et nisi dolorem sapiente molestiae blanditiis libero accusamus possimus, natus pariatur architecto explicabo, iste animi dicta! Et perspiciatis libero sunt fuga, recusandae, necessitatibus incidunt nostrum voluptatem magnam voluptatum exercitationem odit quam rerum ratione modi excepturi placeat consequatur? Necessitatibus odio consequuntur itaque?"
+  },
+  {
+    "_id": {
+      "$oid": "6219bb99ba1b70cc78e3805e"
+    },
+    "name": "Rakibul Islam",
+    "nickname": "rakib",
+    "src": "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/240675457_3024926834495501_7318878448814815198_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_ohc=x_OY3M-x5RMAX-rmyx5&tn=OBW8qPR3zRZYCZA6&_nc_ht=scontent.fdac31-1.fna&oh=00_AT_gy0R-s2xpx2cUX595K57wIvXGOazpBZ7rVrDQABihDw&oe=621F9615",
+    "skilledIn": "c++",
+    "from": "fec",
+    "hometown": "Tangail",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod et nisi dolorem sapiente molestiae blanditiis libero accusamus possimus, natus pariatur architecto explicabo, iste animi dicta! Et perspiciatis libero sunt fuga, recusandae, necessitatibus incidunt nostrum voluptatem magnam voluptatum exercitationem odit quam rerum ratione modi excepturi placeat consequatur? Necessitatibus odio consequuntur itaque?"
+  },
+  {
+    "_id": {
+      "$oid": "6219bc23ba1b70cc78e3805f"
+    },
+    "name": "Krishno Roy",
+    "nickname": "krisno",
+    "src": "https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/161308974_1679884292210460_7675983196915654000_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHdqYy-rcmAv2A-36DNLqDi2tcqoajhfAba1yqhqOF8BhIQRdVI1o9hVU8_7bDjuVVYtpTS_ThWXygM6LRgqcMY&_nc_ohc=4WixOoBokbwAX-sF8OG&tn=zof1kDCNed5f3ANU&_nc_ht=scontent.fdac31-1.fna&oh=00_AT-WPuw_LVBmOdCbqwaOY8FubFPl1KaMV4zJVCTwNbpmjA&oe=623E5326",
+    "skilledIn": "python",
+    "from": "fec",
+    "hometown": "Dinajpur",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod et nisi dolorem sapiente molestiae blanditiis libero accusamus possimus, natus pariatur architecto explicabo, iste animi dicta! Et perspiciatis libero sunt fuga, recusandae, necessitatibus incidunt nostrum voluptatem magnam voluptatum exercitationem odit quam rerum ratione modi excepturi placeat consequatur? Necessitatibus odio consequuntur itaque?"
+  },
+  {
+    "_id": {
+      "$oid": "6219bc83ba1b70cc78e38060"
+    },
+    "name": "Mehedi Ahsan",
+    "nickname": "mehedi",
+    "src": "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/274307798_1343853752726438_2716784627022726146_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGk1gPFcwbmfM1f0NkkCcdK9HcUaBK3Vvb0dxRoErdW9iLO74r8Fc9Gr-xxRceIe7bBvgqhA1l2GYXDhu5TthMu&_nc_ohc=8-gC4JNi25kAX98Gi4m&tn=zof1kDCNed5f3ANU&_nc_ht=scontent.fdac31-1.fna&oh=00_AT_CSA8-oOJExNI1S-YdSO8_pPgWuIy8vdS3_1Iaa9Uufg&oe=621F834D",
+    "skilledIn": "php",
+    "from": "fec",
+    "hometown": "Bagerhat",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod et nisi dolorem sapiente molestiae blanditiis libero accusamus possimus, natus pariatur architecto explicabo, iste animi dicta! Et perspiciatis libero sunt fuga, recusandae, necessitatibus incidunt nostrum voluptatem magnam voluptatum exercitationem odit quam rerum ratione modi excepturi placeat consequatur? Necessitatibus odio consequuntur itaque?"
+  },
+  {
+    "_id": {
+      "$oid": "6219bcdbba1b70cc78e38061"
+    },
+    "name": "MK Rakib",
+    "nickname": "mkrakib",
+    "src": "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/269654246_1242721222883257_5909847227376466186_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHmwsOgvLsjoVgy2zwQQ7QQY4KYwWam3OdjgpjBZqbc59_3r1lVjdhL-Td_IxsbjUUinueXZXNeUVfh0oXOb7rn&_nc_ohc=axkjFmPRmN8AX92RRZC&_nc_ht=scontent.fdac31-1.fna&oh=00_AT-kaB1u0l80XIjA0EkcNyykSv8qojYKGct6PduNxEG4bw&oe=621DE753",
+    "skilledIn": "communication",
+    "from": "fec",
+    "hometown": "Narshingdi",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod et nisi dolorem sapiente molestiae blanditiis libero accusamus possimus, natus pariatur architecto explicabo, iste animi dicta! Et perspiciatis libero sunt fuga, recusandae, necessitatibus incidunt nostrum voluptatem magnam voluptatum exercitationem odit quam rerum ratione modi excepturi placeat consequatur? Necessitatibus odio consequuntur itaque?"
+  },
+  {
+    "_id": {
+      "$oid": "6219bd47ba1b70cc78e38062"
+    },
+    "name": "Rafsan Ahmed Ricky",
+    "nickname": "ricky",
+    "src": "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/240941137_1040525390096447_4192698962041081488_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHjPkgQcv8dOL_hmhDtu8Qs19yDGK9b0GTX3IMYr1vQZOhdA2ebWRm1F7l7U9RMlygh3We1Kqkwcgw2BSVWntG5&_nc_ohc=APexLfar2vQAX-O-qK-&_nc_ht=scontent.fdac31-1.fna&oh=00_AT9WcRvhyUlodRZqdrw9VjAv5In4nzRa3Q5P4BFNZjpdeQ&oe=621EC294",
+    "skilledIn": "wordpress",
+    "from": "fec",
+    "hometown": "Barishal",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod et nisi dolorem sapiente molestiae blanditiis libero accusamus possimus, natus pariatur architecto explicabo, iste animi dicta! Et perspiciatis libero sunt fuga, recusandae, necessitatibus incidunt nostrum voluptatem magnam voluptatum exercitationem odit quam rerum ratione modi excepturi placeat consequatur? Necessitatibus odio consequuntur itaque?"
+  },
+  {
+    "_id": {
+      "$oid": "6219bdbfba1b70cc78e38063"
+    },
+    "name": "Alamin Hossain",
+    "nickname": "alamin",
+    "src": "https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/132736002_1629505397256207_4155313017091385275_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEzFUWbdw8Dcj48Cia0ybnTof7loJYWMAih_uWglhYwCDFUHCURQCaKlHH6mP2O_CeWihVpyJJJ8cAvn4Z1sy8_&_nc_ohc=0nJy0aHImf4AX9_SOlr&_nc_ht=scontent.fdac31-1.fna&oh=00_AT-HYcXObZ2kxI7rH2BEA5FiKb4uY6WLreZ7tp2QH2tzuw&oe=623FB6CC",
+    "skilledIn": "java",
+    "from": "fec",
+    "hometown": "Kushtia",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod et nisi dolorem sapiente molestiae blanditiis libero accusamus possimus, natus pariatur architecto explicabo, iste animi dicta! Et perspiciatis libero sunt fuga, recusandae, necessitatibus incidunt nostrum voluptatem magnam voluptatum exercitationem odit quam rerum ratione modi excepturi placeat consequatur? Necessitatibus odio consequuntur itaque?"
+  },
+  {
+    "_id": {
+      "$oid": "6219be2cba1b70cc78e38064"
+    },
+    "name": "Subir Das Joy",
+    "nickname": "joy",
+    "src": "https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/44155100_2709492442609273_2947271674514374656_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGhd7tDTD9LRdI3J9PbQcQO5Z8tVIBcjCPlny1UgFyMI2bhWFyApfFFAIQbbCTqjX6f_4rbnMqtIHZKiyBomj2A&_nc_ohc=lcBzCbg6U5EAX8cqvXJ&tn=zof1kDCNed5f3ANU&_nc_ht=scontent.fdac31-1.fna&oh=00_AT_dP4P24pWqUdXzvUz7Of3d-oUeahjpbEx5HW1u0jXBXw&oe=62405FAF",
+    "skilledIn": "react",
+    "from": "fec",
+    "hometown": "Chitagong",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod et nisi dolorem sapiente molestiae blanditiis libero accusamus possimus, natus pariatur architecto explicabo, iste animi dicta! Et perspiciatis libero sunt fuga, recusandae, necessitatibus incidunt nostrum voluptatem magnam voluptatum exercitationem odit quam rerum ratione modi excepturi placeat consequatur? Necessitatibus odio consequuntur itaque?"
+  },
+  {
+    "_id": {
+      "$oid": "6219bee2ba1b70cc78e38065"
+    },
+    "name": "Baizid Rahman",
+    "nickname": "baizid",
+    "src": "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-1/273686668_3103417829986912_4166510117595454959_n.jpg?stp=c0.28.200.199a_dst-jpg_p200x200&_nc_cat=107&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeGJdkAVzTDpTfGPpwq14OkolCFBexoTXEaUIUF7GhNcRnJXZ8VtttGO5ZYG1Ez2t5m0USxUPPOtkqkyQst0mIwU&_nc_ohc=b9IgCnYXTfUAX-SS5HW&_nc_oc=AQkcku93BMm1a4DUzt_A7xZsQPsS1HFSSHvI4q7lb1OBThGjLLeCVJ-oo30sbe5bQ1A&_nc_ht=scontent.fdac31-1.fna&oh=00_AT_Z2vEPj1dbj_rjZeXt_xv1iyCD8gMqSuEKPPf6380-rw&oe=621EF3FE",
+    "skilledIn": "data science",
+    "from": "fec",
+    "hometown": "Dhaka",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod et nisi dolorem sapiente molestiae blanditiis libero accusamus possimus, natus pariatur architecto explicabo, iste animi dicta! Et perspiciatis libero sunt fuga, recusandae, necessitatibus incidunt nostrum voluptatem magnam voluptatum exercitationem odit quam rerum ratione modi excepturi placeat consequatur? Necessitatibus odio consequuntur itaque?"
+  }
+]

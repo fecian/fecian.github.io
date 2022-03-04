@@ -1,0 +1,48 @@
+.tutor .card-img-overlay {
+  align-items: end;
+  justify-content: center;
+  display: flex;
+  z-index: 3;
+}
+.card {
+  background-color: #e8e8cc;
+  border: 0px;
+  border-radius: none;
+  overflow: hidden;
+}
+.tutor h6 {
+  max-width: 100%;
+  z-index: 100;
+  text-align: center;
+  color: grey;
+  font-weight: 700;
+}
+.card-img,
+.card-img-bottom {
+  width: 100%;
+  height: 100%;
+}
+.tutor .card-img img {
+  object-fit: fill;
+}
+a.tutor > img {
+  width: 200px;
+  height: 226px;
+}
+a.tutor {
+  text-decoration: none;
+}
+.card-img:hover {
+  transform: scale(1.07);
+  transform-origin: top right;
+  transition: 1s;
+  box-shadow: 2px 2px 5px grey;
+}
+.card-img:hover + #title {
+  transform: matrix(2, 0, 10, 2, 0, 0);
+  /* transform: scale(1.1); */
+  transition: 1s;
+  color: transparent;
+
+  transform-origin: bottom;
+}

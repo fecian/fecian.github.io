@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Syne+Tactile&display=swap");
+.container .navbar-brand {
+  letter-spacing: 0.23em;
+  color: #116530;
+}
+.me-auto {
+  margin-left: auto;
+}
+.bg-light {
+  background-image: linear-gradient(45deg, #e8e8cc 70%, green);
+}
+.container a {
+  color: #0b4619;
+  text-decoration: none;
+}
+.dropdown-menu {
+  background-color: #e8e8cc;
+}
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .nav-link.active {
+  color: rgb(17, 101, 48);
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(123, 147, 39);
+}
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:focus {
+  color: rgb(17, 101, 48);
+}
+.logo {
+  width: 30px;
+  padding: 2px;
+  margin-right: 50px;
+  fill: #0b4619;
+}
+.navbar {
+  font-family: "Syne Tactile", cursive;
+}

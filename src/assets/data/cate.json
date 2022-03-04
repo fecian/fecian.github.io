@@ -1,0 +1,12 @@
+[
+  { "name": "Career Skills", "post": 5 },
+  { "name": "Free Courses", "post": 2 },
+  { "name": "Premium Courses", "post": 8 },
+  { "name": "Digital Marketing", "post": 0 },
+  { "name": "App Development", "post": 1 },
+  { "name": "Programming", "post": 7 },
+  { "name": "Designing", "post": 0 },
+  { "name": "Figma and Photoshop", "post": 0 },
+  { "name": "Data Science", "post": 1 },
+  { "name": "Web Development", "post": 2 }
+]
