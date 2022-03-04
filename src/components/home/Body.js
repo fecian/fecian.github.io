@@ -22,6 +22,7 @@ const Body = () => {
         Lets have a <span> Dream</span>
       </OurCourses>{" "}
       <Carousel
+        fade
         style={{
           width: "90%",
           display: "block",
@@ -31,12 +32,16 @@ const Body = () => {
       >
         <Caroemon
           alt="Teacher 1"
-          src="https://media.istockphoto.com/photos/teaching-and-technology-picture-id1340543907?b=1&k=20&m=1340543907&s=170667a&w=0&h=apo6jLzNsK0BdKVHOqSF9kAg-YLCNxSDEc7IULcUw5A="
+          src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/273697817_1339375459840934_7798569188435676402_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=TXqBHd08NugAX-zU6zt&_nc_ht=scontent.fdac31-1.fna&oh=00_AT-gmoKOE7bzKgssbcbmMOPcRWLz3qHeUeBSGsExd0j5yw&oe=62278294"
         />
         <Caroemon
           alt="Teacher 1"
-          src="https://images.unsplash.com/photo-1580894732444-8ecded7900cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVhY2hlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-        />{" "}
+          src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/269744074_3056709301248189_3053080420646646741_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Az5WlyVAoVgAX8B6E8P&_nc_ht=scontent.fdac31-1.fna&oh=00_AT-REQf95d0YnOFAb9iJI7iDp8DT6P8Xgx9vxKh2mZxSoQ&oe=6226B9DA"
+        />
+        <Caroemon
+          alt="Teacher 1"
+          src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/273697817_1339375459840934_7798569188435676402_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=TXqBHd08NugAX-zU6zt&_nc_ht=scontent.fdac31-1.fna&oh=00_AT-gmoKOE7bzKgssbcbmMOPcRWLz3qHeUeBSGsExd0j5yw&oe=62278294"
+        />
       </Carousel>
       <OurCourses>
         List of our <span>most popular</span> courses...

@@ -5,6 +5,7 @@ import Courses from "./courses/Courses";
 import Body from "./Body";
 import TutorOverview from "./tutors/TutorOverview";
 import Course from "./courses/Course";
+import About from "./About";
 
 const Home = (props) => {
   return (
@@ -15,6 +16,7 @@ const Home = (props) => {
         <Route exact path="t/:nickname" element={<TutorOverview />} />
         <Route exact path="courses" element={<Courses />} />
         <Route exact path="course/:link" element={<Course />} />
+        <Route exact path="about" element={<About />} />
         <Route exact path="/" element={<Body />} />
       </Routes>
     </div>

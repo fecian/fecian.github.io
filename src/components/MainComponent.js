@@ -6,7 +6,9 @@ import Home from "./home/Home";
 const MainComponent = () => {
   return (
     <div>
-      <Header></Header>
+      <Header />
+
+      {/* <BreadCrumbs></BreadCrumbs> */}
       <Home />
       <Footer />
     </div>

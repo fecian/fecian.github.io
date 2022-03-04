@@ -2,6 +2,7 @@ import React from "react";
 import NewsLetter from "./NewsLetter";
 import "./footer.css";
 import * as icon from "../SocialIcons";
+import { Button } from "react-bootstrap";
 let d = new Date();
 const Footer = () => {
   return (
@@ -46,6 +47,17 @@ const Footer = () => {
               </li>
             </ul>
           </div>
+          <a
+            style={{
+              position: "relative",
+              right: "-118%",
+              bottom: "15px",
+              color: "white",
+            }}
+            href="#backToTop"
+          >
+            Go to top
+          </a>
           <footer style={{ color: "grey" }}>
             {" "}
             <small>
