@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
 import cate from "../../../assets/data/cate.json";
 import courses from "../../../assets/data/courses.json";
@@ -6,6 +6,9 @@ import "./courses.css";
 import RatingStar from "../RatingStar";
 import { Link } from "react-router-dom";
 const Courses = () => {
+  useEffect(() => {
+    document.title = "All Courses | FECIAN";
+  });
   return (
     <Container>
       <Row>

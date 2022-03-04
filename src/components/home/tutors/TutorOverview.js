@@ -13,6 +13,7 @@ const TutorOverview = (props) => {
         setTutor(i);
       }
     });
+    document.title = `${tutor.name} | Tutor`;
   });
 
   return (

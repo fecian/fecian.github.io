@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Row, CardGroup } from "react-bootstrap";
 import Tutor from "./Tutor";
 import tutors from "../../../assets/data/tutors.json";
@@ -6,6 +6,9 @@ import tutors from "../../../assets/data/tutors.json";
 const TutorHome = (props) => {
   const tutor = tutors.map((i) => {
     return <Tutor i={i} key={i._id.$oid} />;
+  });
+  useEffect(() => {
+    document.title = "Tutors | FECIAN";
   });
   return (
     <CardGroup>

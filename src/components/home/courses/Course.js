@@ -17,13 +17,13 @@ const Course = () => {
       }
       const tutor = c?.instructor?.map((i) => i);
       tutors?.find((i) => {
-        return tutor?.map((j) => {
+        return tutor?.forEach((j) => {
           if (i.nickname === j) setImage(i.src);
         });
       });
+      document.title = `${course.title} | WDB`;
     });
   });
-
   const star = (
     <RatingStar rating={course?.rating} color1="#f1b500" color2="grey" />
   );

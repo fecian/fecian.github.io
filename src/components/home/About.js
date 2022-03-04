@@ -1,6 +1,9 @@
-import React from "react";
+import React, { useEffect } from "react";
 
 const About = () => {
+  useEffect(() => {
+    document.title = "About WDB | FECIAN";
+  });
   return (
     <div
       style={{
@@ -13,6 +16,7 @@ const About = () => {
       <img
         src="https://c.tenor.com/0yMdTIJGIH4AAAAd/sleepy-sleeping.gif"
         style={{ width: "100%" }}
+        alt=""
       />
       <p>Developer is sleeping . . . </p>
       <p>

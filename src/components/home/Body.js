@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Col, Container, Row, Carousel, Button } from "react-bootstrap";
 import Caroemon from "./tutors/Caroemon";
 import CourseCard from "./CourseCard";
@@ -15,6 +15,9 @@ const Body = () => {
     var r = Math.floor(Math.random() * tutors.length);
     if (lucky3.indexOf(r) === -1) lucky3.push(r);
   }
+  useEffect(() => {
+    document.title = "WDB | FECIAN";
+  });
 
   return (
     <div>
